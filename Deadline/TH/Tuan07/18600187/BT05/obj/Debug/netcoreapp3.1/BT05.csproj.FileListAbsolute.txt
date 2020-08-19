@@ -1,0 +1,13 @@
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\bin\Debug\netcoreapp3.1\BT05.exe
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\bin\Debug\netcoreapp3.1\BT05.deps.json
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\bin\Debug\netcoreapp3.1\BT05.runtimeconfig.json
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\bin\Debug\netcoreapp3.1\BT05.runtimeconfig.dev.json
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\bin\Debug\netcoreapp3.1\BT05.dll
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\bin\Debug\netcoreapp3.1\BT05.pdb
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\obj\Debug\netcoreapp3.1\BT05.AssemblyInfoInputs.cache
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\obj\Debug\netcoreapp3.1\BT05.AssemblyInfo.cs
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\obj\Debug\netcoreapp3.1\BT05.csproj.CoreCompileInputs.cache
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\obj\Debug\netcoreapp3.1\BT05.dll
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\obj\Debug\netcoreapp3.1\BT05.pdb
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\obj\Debug\netcoreapp3.1\BT05.genruntimeconfig.cache
+C:\Users\ahihi\source\repos\BTCN_186000187\BT05\obj\Debug\netcoreapp3.1\BT05.csprojAssemblyReference.cache

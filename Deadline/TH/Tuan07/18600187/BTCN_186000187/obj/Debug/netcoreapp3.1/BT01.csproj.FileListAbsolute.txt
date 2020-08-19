@@ -1,0 +1,12 @@
+C:\Users\ahihi\source\repos\BTCN_186000187\BTCN_186000187\bin\Debug\netcoreapp3.1\BT01.exe
+C:\Users\ahihi\source\repos\BTCN_186000187\BTCN_186000187\bin\Debug\netcoreapp3.1\BT01.deps.json
+C:\Users\ahihi\source\repos\BTCN_186000187\BTCN_186000187\bin\Debug\netcoreapp3.1\BT01.runtimeconfig.json
+C:\Users\ahihi\source\repos\BTCN_186000187\BTCN_186000187\bin\Debug\netcoreapp3.1\BT01.runtimeconfig.dev.json
+C:\Users\ahihi\source\repos\BTCN_186000187\BTCN_186000187\bin\Debug\netcoreapp3.1\BT01.dll
+C:\Users\ahihi\source\repos\BTCN_186000187\BTCN_186000187\bin\Debug\netcoreapp3.1\BT01.pdb
+C:\Users\ahihi\source\repos\BTCN_186000187\BTCN_186000187\obj\Debug\netcoreapp3.1\BT01.AssemblyInfoInputs.cache
+C:\Users\ahihi\source\repos\BTCN_186000187\BTCN_186000187\obj\Debug\netcoreapp3.1\BT01.AssemblyInfo.cs
+C:\Users\ahihi\source\repos\BTCN_186000187\BTCN_186000187\obj\Debug\netcoreapp3.1\BT01.csproj.CoreCompileInputs.cache
+C:\Users\ahihi\source\repos\BTCN_186000187\BTCN_186000187\obj\Debug\netcoreapp3.1\BT01.dll
+C:\Users\ahihi\source\repos\BTCN_186000187\BTCN_186000187\obj\Debug\netcoreapp3.1\BT01.pdb
+C:\Users\ahihi\source\repos\BTCN_186000187\BTCN_186000187\obj\Debug\netcoreapp3.1\BT01.genruntimeconfig.cache

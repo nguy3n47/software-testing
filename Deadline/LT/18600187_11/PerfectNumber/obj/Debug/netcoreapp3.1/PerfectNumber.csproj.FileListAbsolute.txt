@@ -1,0 +1,13 @@
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.exe
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.deps.json
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.runtimeconfig.json
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.runtimeconfig.dev.json
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.dll
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\bin\Debug\netcoreapp3.1\PerfectNumber.pdb
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.csprojAssemblyReference.cache
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.AssemblyInfoInputs.cache
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.AssemblyInfo.cs
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.csproj.CoreCompileInputs.cache
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.dll
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.pdb
+D:\FIT-HCMUS\Courses\CCKCPM\Deadline\LT\18600187\PerfectNumber\obj\Debug\netcoreapp3.1\PerfectNumber.genruntimeconfig.cache
